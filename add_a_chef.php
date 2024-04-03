@@ -1,7 +1,7 @@
 <?php
 $dsn = 'mysql:host=localhost;dbname=chefnfarmer';
 $username = 'root';
-$password = '';
+$password = 'SsmM!oVImz5o';
 
 try {
     // Create a PDO instance
